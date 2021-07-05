@@ -1,0 +1,26 @@
+.heading{
+color: white;
+box-shadow: 5px 5px 5px grey;
+text-align: left;
+width: 100%;
+vertical-align: middle;
+}
+
+.heading h3{
+    display: inline;
+}
+
+.heading button{
+    float: right;
+}
+
+.footer{
+    position:fixed;
+    color: white;
+    line-height:3;
+    float: none;
+    background-color: grey;
+    text-align: center;
+    bottom:0;
+    width: 100%;
+}
